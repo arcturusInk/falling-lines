@@ -8,6 +8,8 @@ When I was coding my personal website/coding portfolio, my objective was to make
 The final version of the script was coded with p5.js.
 
 #### The First Iteration:
+[static-image](https://user-images.githubusercontent.com/9923181/47945422-4bc05c00-ded8-11e8-896a-82eb3076814b.png)
+I used this static jpeg image as the background of the website. However, quickly became dissatisfied with it; I wanted the lines to move around the website.
 
 #### The Second Iteration:
 This is where I started when I began to code the graphic/animation: http://alpha.editor.p5js.org/embed/SyzL29I_z.
